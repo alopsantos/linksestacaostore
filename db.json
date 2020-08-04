@@ -1,0 +1,53 @@
+{
+  "links": [
+    {
+      "id": 1,
+      "title": "Comprar no Site Agora",
+      "url": "https://www.estacaodamodastore.com.br/"
+    },
+    {
+      "id": 2,
+      "title": "Cashback - Compre agora e receba 15% do valor de volta, saiba mais!",
+      "url": "http://bit.ly/AmedigitalEstacaoStore"
+    },
+    {
+      "id": 3,
+      "title": "VAREJO - Falar com uma vendedora!",
+      "url": "http://bit.ly/VendedoraJessica"
+    },
+    {
+      "id": 3,
+      "title": "ATACADO - Falar com uma vendedora!",
+      "url": "http://bit.ly/VendedoraJessyca"
+    },
+    {
+      "id": 3,
+      "title": "Atendimento ao cliente",
+      "url": "http://bit.ly/SACEstacaoStore"
+    },
+    {
+      "id": 4,
+      "title": "Aline Mezzari - Saiba Mais",
+      "url": "https://www.estacaodamodastore.com.br/Alinemezzari"
+    },
+    {
+      "id": 4,
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCOJfErGZq7C0SPcjhUoO_aA"
+    }
+  ],
+  "perfil":[
+      {
+          "id": 1,
+          "title": "@estacaostore",
+          "urlavatar": "https://instagram.fbfh3-3.fna.fbcdn.net/v/t51.2885-19/s150x150/42925363_319058818671813_693837977960316928_n.jpg?_nc_ht=instagram.fbfh3-3.fna.fbcdn.net&_nc_ohc=G9P1HesPEk8AX-CgS7a&oh=d4ff240eb5b2a0765594ae1a1e181926&oe=5F54959E"
+      }
+  ],
+  "dev":[
+      {
+          "id": 1,
+          "title": "By: Equipe Estação Store",
+          "url": "https://www.estacaodamodastore.com.br/"
+      }
+  ]
+}
