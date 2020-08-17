@@ -12,28 +12,43 @@
     },
     {
       "id": 3,
-      "title": "VAREJO - Falar com uma vendedora!",
-      "url": "http://bit.ly/VendedoraJessica"
-    },
-    {
-      "id": 4,
-      "title": "ATACADO - Falar com uma vendedora!",
+      "title": "ATACADO",
       "url": "http://bit.ly/VendedoraJessyca"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Atendimento ao cliente",
       "url": "http://bit.ly/SACEstacaoStore"
     },
     {
-      "id": 6,
+      "id": 5,
       "title": "Aline Mezzari - Saiba Mais",
       "url": "https://www.estacaodamodastore.com.br/Alinemezzari"
     },
     {
-      "id": 7,
+      "id": 6,
       "title": "Youtube",
       "url": "https://www.youtube.com/channel/UCOJfErGZq7C0SPcjhUoO_aA"
+    },
+    {
+      "id": 7,
+      "title": "Vendedora Bianca",
+      "url": "https://wa.me/message/3IRCEIALG4YSM1"
+    },
+    {
+      "id": 8,
+      "title": "Vendedora Thais",
+      "url": "https://wa.me/message/M6M7BW2ZP3CGM1"
+    },
+    {
+      "id": 9,
+      "title": "Vendedora Jessica",
+      "url": "https://wa.me/message/HYPLFQGJ6SJJH1"
+    },
+    {
+      "id": 10,
+      "title": "Vendedora Tatiana",
+      "url": "https://wa.me/message/UBTAXGSQYY2DI1"
     }
   ],
   "linksatacado": [
