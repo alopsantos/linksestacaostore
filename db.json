@@ -12,23 +12,23 @@
     },
     {
       "id": 3,
-      "title": "ATACADO",
-      "url": "http://bit.ly/VendedoraJessyca"
-    },
-    {
-      "id": 4,
       "title": "Atendimento ao cliente",
       "url": "http://bit.ly/SACEstacaoStore"
     },
     {
+      "id": 4,
+      "title": "Vendedora Jessica",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998206662"
+    },
+    {
       "id": 5,
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UCOJfErGZq7C0SPcjhUoO_aA"
+      "title": "Vendedora Ellisa",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998020578"
     },
     {
       "id": 6,
-      "title": "Vendedora Jessica",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998206662"
+      "title": "Vendedora Bianca",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545999533696"
     },
     {
       "id": 7,
@@ -37,13 +37,13 @@
     },
     {
       "id": 8,
-      "title": "Vendedora Tatiana",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998020578"
+      "title": "Atacado",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
       "id": 9,
-      "title": "Vendedora Bianca",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545999533696"
+      "title": "Youtube",
+      "url": "https://www.youtube.com/channel/UCOJfErGZq7C0SPcjhUoO_aA"
     }
   ],
   "linksatacado": [
@@ -54,8 +54,8 @@
     },
     {
       "id": 2,
-      "title": "Vendedora Jessyca",
-      "url": "https://wa.me/message/6AONTKDHIWQSA1"
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
       "id": 3,
@@ -69,8 +69,8 @@
     },
     {
       "id": 5,
-      "title": "Vendedora Lucy",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
+      "title": "Vendedora Jessyca",
+      "url": "https://wa.me/message/6AONTKDHIWQSA1"
     },
     {
       "id": 6,
