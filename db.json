@@ -12,28 +12,28 @@
     },
     {
       "id": 3,
-      "title": "Vendedora Bianca",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545999533696"
-    },
-    {
-      "id": 4,
-      "title": "Vendedora Jessica",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998206662"
-    },
-    {
-      "id": 5,
-      "title": "Vendedora Ellisa",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998020578"
-    },
-    {
-      "id": 6,
       "title": "Vendedora Thais",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998255329"
     },
     {
+      "id": 4,
+      "title": "Vendedora Ellisa",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998020578"
+    },
+    {
+      "id": 5,
+      "title": "Vendedora Jessica",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998206662"      
+    },
+    {
+      "id": 6,
+      "title": "Vendedora Bianca",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545999533696"
+    },
+    {
       "id": 7,
       "title": "Atacado",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
+      "url": "https://wa.me/message/6AONTKDHIWQSA1"
     },
     {
       "id": 8,
@@ -53,26 +53,25 @@
       "url": "http://bit.ly/VendedoraMegaPolo"
     },
     {
-      "id": 3,
-      "title": "Vendedora Karline",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
-    },
-    {
-      "id": 5,
-      "title": "Vendedora Pamela",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598257716"
-    },
-    {
       "id": 2,
+      "title": "Vendedora Jessyca",
+      "url": "https://wa.me/message/6AONTKDHIWQSA1"
+    },
+    {
+      "id": 3,
       "title": "Vendedora Lucy",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
-      "id": 3,
+      "id": 4,
+      "title": "Vendedora Pamela",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598257716"
+    },
+    {
+      "id": 5,
       "title": "Vendedora Karline",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
     },
-
     {
       "id": 6,
       "title": "Compras no Varejo",
