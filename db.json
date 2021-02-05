@@ -54,25 +54,23 @@
     },
     {
       "id": 2,
-      "title": "Vendedora Lucy",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
-      
-      
-    },
-    {
-      "id": 3,
       "title": "Vendedora Karline",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
     },
     {
-      "id": 4,
+      "id": 3,
       "title": "Vendedora Jessyca",
       "url": "https://wa.me/message/6AONTKDHIWQSA1"
     },
     {
-      "id": 5,
+      "id": 4,
       "title": "Vendedora Pamela",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598257716"
+    },
+    {
+      "id": 5,
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
       "id": 6,
