@@ -2,48 +2,38 @@
   "linksvarejo": [
     {
       "id": 1,
-      "title": "Comprar no Site Agora",
-      "url": "https://www.estacaodamodastore.com.br/"
+      "title": "Bom Retiro São Paulo",
+      "url": "http://bit.ly/VendedoraMegaPolo"
     },
     {
       "id": 2,
-      "title": "Cashback - Compre agora e receba 15% do valor de volta, saiba mais!",
-      "url": "http://bit.ly/AmedigitalEstacaoStore"
+      "title": "Vendedora Karline",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
     },
     {
       "id": 3,
-      "title": "Vendedora Thais",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998255329"
-    },
-    {
-      "id": 4,
-      "title": "Vendedora Ellisa",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998020578"
-    },
-    {
-      "id": 5,
-      "title": "Vendedora Jessica",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545998206662"
-    },
-    {
-      "id": 6,
-      "title": "Vendedora Bianca",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=5545999533696"
-    },
-    {
-      "id": 7,
-      "title": "Atacado",
+      "title": "Vendedora Jessyca",
       "url": "https://wa.me/message/6AONTKDHIWQSA1"
     },
     {
-      "id": 8,
-      "title": "Atendimento ao cliente",
-      "url": "http://bit.ly/SACEstacaoStore"
+      "id": 4,
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
-      "id": 9,
-      "title": "Youtube",
-      "url": "https://www.youtube.com/channel/UCOJfErGZq7C0SPcjhUoO_aA"
+      "id": 5,
+      "title": "Vendedora Pamela",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598257716"
+    },
+    {
+      "id": 6,
+      "title": "Compras no Varejo",
+      "url": "https://www.estacaodamodastore.com.br"
+    },
+    {
+      "id": 7,
+      "title": "Cadastro para revenda",
+      "url": "https://www.estacaodamodastore.com.br/vendas-por-atacado"
     }
   ],
   "linksatacado": [
@@ -86,13 +76,13 @@
   "perfil": [
     {
       "id": 1,
-      "title": "@estacaostore",
-      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/logo-estacao-store.jpg"
+      "title": "@alinemezzaribrand",
+      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/Aline-Mezzari-Brand-New.jpg"
     },
     {
       "id": 2,
-      "title": "@alinemezzaribrand",
-      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/Aline-Mezzari-Brand-New.jpg"
+      "title": "@estacaostore",
+      "urlavatar": "https://estacaodamodastore.vteximg.com.br/arquivos/logo-estacao-store.jpg"
     }
   ],
   "dev": [
