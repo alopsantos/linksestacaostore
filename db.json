@@ -7,18 +7,18 @@
     },
     {
       "id": 2,
-      "title": "Vendedora Karline",
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
+    },
+    {
+      "id": 3,      
+      "title": "Vendedora Flaviane",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
     },
     {
-      "id": 3,
+      "id": 4,      
       "title": "Vendedora Jessyca",
       "url": "https://wa.me/message/6AONTKDHIWQSA1"
-    },
-    {
-      "id": 4,
-      "title": "Vendedora Lucy",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
       "id": 5,
@@ -44,18 +44,18 @@
     },
     {
       "id": 2,
-      "title": "Vendedora Karline",
+      "title": "Vendedora Lucy",
+      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
+    },
+    {
+      "id": 3,      
+      "title": "Vendedora Flaviane",
       "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554598144534"
     },
     {
-      "id": 3,
+      "id": 4,      
       "title": "Vendedora Jessyca",
       "url": "https://wa.me/message/6AONTKDHIWQSA1"
-    },
-    {
-      "id": 4,
-      "title": "Vendedora Lucy",
-      "url": "http://api.whatsapp.com/send?1=pt_BR&phone=554599199258"
     },
     {
       "id": 5,
